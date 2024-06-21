@@ -1,0 +1,200 @@
+*{
+    margin: 0 auto;
+}
+.container-intro{
+    width: 100%;
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url(/images/intro-white-bg.jpg);
+    margin: 0 auto;
+}
+.container-intro .intro{
+    width: 1170px;
+    height: 650px;
+    margin: 0 auto;
+}
+.intro header{
+    width: 1170px;
+    height: 100px;
+    margin: 0 auto;
+}
+.intro-content {
+    width: 1170px;
+    height: 550px;
+    float: left;
+    margin: 0 auto;
+}
+.intro-content-left{
+    width: 530px;
+    height: 550px;
+    float: left;
+}
+.intro-content-left p{
+    font-family: 'Cardo',serif;
+    font-weight: 700;
+    text-align: left;
+    margin: 80px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-size: 64px;
+}
+#content{
+    font-size: small;
+    margin: 0 auto;
+    font-size: medium;
+    font-family: 'Catamaran';
+    font-weight: 400;
+    text-align: justify;
+    margin: 80px;
+    margin-top: 0px;
+    text-align: left;
+}
+#button{
+    margin-right: 170px;
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    font-family: 'Catamaran';
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: bolder; 
+    font-size: medium; 
+}
+.intro-content-right{
+    width: 640px;
+    height: 550px;
+    float: left;
+}
+.intro-content-right figure img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding: 100px 0px 100px;
+}
+.intro ul{
+    list-style-type: none;
+}
+.intro ul li a{
+    text-decoration: none;
+    float: left;
+    padding: 40px;
+    font-family: 'Catamaran';
+    font-weight: 100;
+    color: black;
+    float: left;
+    font-size: large;
+}
+.intro button{
+    border: 3px solid black;
+    font-family: 'Catamaran';
+    padding: 10px 40px;
+    margin: 12px;
+    margin-top: 28px;
+    font-weight: bold;
+    font-size: large;
+    background-color: white;
+    float: right;
+    border-radius: 10px;
+}
+.container-2{
+    height: auto;
+    background-image: url(/images/middle-bg-new.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0 auto;
+    width: 100%;
+}
+.container-2 .intro{
+   width: 1170px;
+   height: 400px;
+   margin: 0 auto;
+}
+.container-2-content {
+    height: 150px;
+    width: 1170px;
+    margin: 0 auto;
+}
+.container-2-content p{
+    font-family: 'Cardo';
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}  
+.container-2-content-middle{
+    height: 250px;
+    width: 1170px;
+}
+.container-2-content-middle p{
+    color: white;
+    text-align: center;
+    margin-top: 2px;
+    height: 70px;
+    width: 50%;
+    font-family: 'Hind';
+    
+}
+#middle-button{
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    border: 3px solid white;
+    margin-top: 50px;
+    margin-right: 460px;
+}
+.container-3{
+    height: 600px;
+    width: 100%;
+    margin: 0 auto;
+}
+.container-3 .intro{
+    height: 600px;
+    width: 1170px;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.container-3-left{
+    height: 600px;
+    width: 390px;
+    float: left;
+}
+#travel-photos{
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 350px;
+
+}
+.container-3-middle{
+    height: 600px;
+    width: 390px;
+    float: left;
+}
+.container-3-right{
+    height: 600px;
+    width: 390px;
+    float: left;
+}
+#photo-name{
+    margin-top: 30px;
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 80px;
+    font-family: 'Cardo',serif;
+    font-weight: bolder;
+    font-size: 36px; ;
+
+}
+#photo-content{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+    font-family: 'Hind';
+    padding: 0px;
+}
+
+
