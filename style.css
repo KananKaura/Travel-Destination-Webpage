@@ -6,7 +6,7 @@
     height: 650px;
     background-repeat: no-repeat;
     background-size: 100%;
-    background-image: url(/images/intro-white-bg.jpg);
+    background-image: url(./images/intro-white-bg.jpg);
     margin: 0 auto;
 }
 .container-intro .intro{
@@ -100,7 +100,7 @@
 }
 .container-2{
     height: auto;
-    background-image: url(/images/middle-bg-new.jpg);
+    background-image: url(./images/middle-bg-new.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     margin: 0 auto;
